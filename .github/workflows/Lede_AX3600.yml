@@ -20,8 +20,8 @@ on:
         default: 'false'
 
 env:
-  REPO_URL: https://github.com/Tony91590/immortalwr
-  REPO_BRANCH: ax3600
+  REPO_URL: https://github.com/Tony91590/test
+  REPO_BRANCH: master-ax3000
   FEEDS_CONF: feeds.conf.default
   CONFIG_FILE: AX3600.config
   DIY_P1_SH: diy-part1.sh
