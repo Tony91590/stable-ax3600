@@ -8,7 +8,7 @@
 # Description: Build OpenWrt using GitHub Actions
 #
 
-name: Lede AX3600
+name: OpenWrt AX3600
 
 on:
   repository_dispatch:
