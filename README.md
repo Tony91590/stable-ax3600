@@ -7,6 +7,8 @@ Argon THEME
 
 UPNP
 
+Turbo ACC
+
 QoS
 
 EASY MESH 
