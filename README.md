@@ -5,7 +5,7 @@ QCA crypto iNCLUDE
 
 Argon THEME
 
-UPNP
+UPnP
 
 Turbo ACC
 
