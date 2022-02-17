@@ -13,3 +13,6 @@
 # Modify default IP
 
 #sed -i 's/192.168.1.1/192.168.31.1/g' package/base-files/files/bin/config_generate
+pushd feeds/luci
+wget -O- https://github.com/LGA1150/fullconenat-fw3-patch/raw/master/luci.patch | git apply
+popd
