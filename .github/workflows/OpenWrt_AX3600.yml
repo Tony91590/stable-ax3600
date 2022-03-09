@@ -69,8 +69,8 @@ jobs:
     - name: Update & Install feeds
       working-directory: ./openwrt
       run: |
-        ./scripts/feeds update -a
-        ./scripts/feeds install -a
+        ./scripts/feeds update -i -f
+        ./scripts/feeds install -a -f
         
     - name: Configuration Customization - Build_ax3600
       run: |
